@@ -34,16 +34,19 @@ ggplot() +
   labs(title = "Crown Condition of Trees Around SMU Campus", x = "Longitude", y = "Latitude", colour = "Crown Condition") +
   theme_bw()
 
-#Crown condition with other stuff but not as pretty (Need to make binomial)
+#Crown condition Binomial
+
+crown_condition_recode<- recode(campus_data$crown_condition, "G"="G","F"="FP","P"="FP")
+
 ggplot() +
   geom_polygon(data = campus_buildings_df, aes(x = long, y = lat, group = group), colour = "Blue") +
   geom_polygon(data = pavement_df, aes(x = long, y = lat, group = group), colour = "Red", fill="Pink") +
   geom_polygon(data = pathways_df, aes(x = long, y = lat, group = group), colour = "Light Grey") +
-  geom_point(data = campus_data, aes(x = UTMX, y = UTMY, col = crown_condition)) +
-  scale_colour_manual(values = c('Yellow', 'Green', 'Red', 'Black')) +
+  geom_point(data = campus_data, aes(x = UTMX, y = UTMY, col = crown_condition_recode)) +
+  scale_colour_manual(values = c('Green', 'Red', 'Black')) +
   geom_polygon(data = campus_buildings_df, aes(x = long, y = lat, group = group), colour = "Blue", fill = "Light Blue") +
-  geom_point(data = campus_data, aes(x = UTMX, y = UTMY, col = crown_condition), size = 1) +
-  scale_colour_manual(values = c('Yellow', 'Green', 'Red', 'Black'), labels = c('Fair', 'Good', 'Poor', 'NA')) +
+  geom_point(data = campus_data, aes(x = UTMX, y = UTMY, col = crown_condition_recode), size = 1) +
+  scale_colour_manual(values = c('Green', 'Red', 'Black'), labels = c('Good', 'Poor/Fair', 'NA')) +
   labs(title = "Crown Condition of Trees Around SMU Campus", x = "Longitude", y = "Latitude", colour = "Crown Condition")
 
 #Trunk damage
