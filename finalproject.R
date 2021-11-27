@@ -49,7 +49,7 @@ ggplot() +
   scale_colour_manual(values = c('Green', 'Red', 'Black'), labels = c('Good', 'Poor/Fair', 'NA')) +
   labs(title = "Crown Condition of Trees Around SMU Campus", x = "Longitude", y = "Latitude", colour = "Crown Condition")
 
-#Trunk damage
+#Trunk damages
 ggplot() +
   geom_polygon(data = campus_buildings_df, aes(x = long, y = lat, group = group), colour = "Blue") +
   geom_polygon(data = pavement_df, aes(x = long, y = lat, group = group), colour = "Red", fill="Pink") +
