@@ -60,4 +60,4 @@ ggplot() +
   geom_point(data = campus_data, aes(x = UTMX, y = UTMY, col = trunk_damage), size = 1) +
   scale_colour_manual(values = c('Yellow', 'Green'), labels = c('Yes', 'No')) +
   labs(title = "Trunk Damage of Trees Around SMU Campus", x = "Longitude", y = "Latitude", colour = "Trunk Damage")
-# Math!!!!
+
