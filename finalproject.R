@@ -61,3 +61,7 @@ ggplot() +
   scale_colour_manual(values = c('Yellow', 'Green'), labels = c('Yes', 'No')) +
   labs(title = "Trunk Damage of Trees Around SMU Campus", x = "Longitude", y = "Latitude", colour = "Trunk Damage")
 
+#Stats
+lm_mod <- lm(crown_condition_recode ~ sapply(1:nrow(campus_data), function(x) min(st_distance(campus_buildings_df, campus_data[x, ]))), data = 
+              campus_data)+
+  summary(lm_mod)
