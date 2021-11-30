@@ -1,0 +1,592 @@
+﻿UID2021,UTMX,UTMY,LatinName,CommonName,SpeciesID,PositionSt,lat,long
+1,453903.8,4942103.03,Amelanchier laevis*,Serviceberry or Juneberry,16,Check position,44.63080452,-63.58114353
+2,453901.07,4942101.71,Rhus typhina,Sumach,106,Good - Ground Truthed,44.63079246,-63.58117782
+3,453896.75,4942100.35,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63077994,-63.58123216
+4,453892.48,4942098.73,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63076508,-63.58128585
+5,453895.1,4942078.11,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63057963,-63.58125096
+6,453884.38,4942096.56,Malus sp.,Flowering Crab 'White Angel',81,Good - Ground Truthed,44.63074503,-63.58138776
+7,453883.08,4942094.06,Malus sp.,Flowering Crab 'White Angel',81,Good - Ground Truthed,44.63072244,-63.58140393
+8,453881.58,4942091.04,Malus sp.,Flowering Crab 'White Angel',81,Good - Ground Truthed,44.63069516,-63.58142257
+9,453884.2,4942098.34,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63076104,-63.58139019
+10,453877.1,4942094.44,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63072547,-63.58147935
+11,453876.22,4942090.18,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63068707,-63.58149006
+12,453873.53,4942088.36,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63067051,-63.58152381
+13,453872.27,4942092.16,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63070464,-63.58154003
+14,453871.14,4942088.42,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.6306709,-63.58155394
+15,453869.29,4942086.98,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63065782,-63.58157713
+16,453868.09,4942091.3,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63069663,-63.58159265
+17,453867.25,4942087.22,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63065985,-63.58160287
+18,453866.19,4942084.47,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63063502,-63.58161599
+19,453863.61,4942090.27,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63068707,-63.58164904
+20,453863.86,4942093.53,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63071643,-63.58164618
+21,453861.06,4942089.3,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63067817,-63.58168109
+22,453861.68,4942087.08,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63065823,-63.58167308
+23,453864.2,4942083.29,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63062427,-63.58164097
+24,453857.82,4942083.36,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63062449,-63.58172141
+25,453856.35,4942088.33,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63066914,-63.58174038
+26,453876.43,4942076.69,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63056565,-63.5814862
+27,453875.01,4942073.25,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63053459,-63.58150379
+28,453878.45,4942073.86,Tilia cordata,Basswood,116,Good - Ground Truthed,44.6305403,-63.58146048
+29,453886.61,4942088.35,Malus sp.,Flowering Crab,77,Good - Ground Truthed,44.63067126,-63.58135891
+30,453893.04,4942076.77,Pinus mugo,Mountain Pine,91,Good - Ground Truthed,44.63056743,-63.58127681
+31,453892.38,4942068.96,Pinus mugo,Mountain Pine,91,Good - Ground Truthed,44.63049708,-63.58128443
+32,453892.96,4942063.03,Pinus mugo,Mountain Pine,91,Good - Ground Truthed,44.63044374,-63.58127659
+33,453889.73,4942063.36,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.6304465,-63.58131733
+34,453843.36,4942077.15,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63056766,-63.58190314
+35,453846.03,4942077.42,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63057026,-63.5818695
+36,453849.78,4942073.96,Pinus mugo,Mountain Pine,91,Good - Ground Truthed,44.63053936,-63.58182192
+37,453850.89,4942068.52,Corylus avellana,Corkscrew Hazel,39,Good - Ground Truthed,44.63049046,-63.58180743
+38,453852.77,4942071.83,,,0,Need species ID,44.63052038,-63.58178403
+39,453855.04,4942070.02,Pinus mugo,Mountain Pine,91,Good - Ground Truthed,44.63050423,-63.58175525
+40,453859.21,4942067.2,Fagus sylvatica riversii,Copper Beech,46,Good - Ground Truthed,44.63047911,-63.58170243
+41,453855.83,4942066.88,Picea pungens,Blue Spruce,89,Good - Ground Truthed,44.63047601,-63.58174501
+42,453854.53,4942068.21,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.6304879,-63.58176152
+43,453853.89,4942060.96,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6304226,-63.58176893
+44,453857.07,4942060.94,Pinus sylvestris,Scotts Pine,95,Good - Ground Truthed,44.63042262,-63.58172884
+45,453861.6,4942059.82,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63041283,-63.58167164
+46,453852.27,4942056.93,Pinus sylvestris,Scotts Pine,95,Good - Ground Truthed,44.63038621,-63.58178899
+47,453852.52,4942048.43,Betula nigra,Red Birch,20,Good - Ground Truthed,44.63030971,-63.58178508
+48,453858.58,4942047.67,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63030326,-63.58170862
+49,453860.63,4942037.04,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.6302077,-63.58168182
+50,453864,4942036.18,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63020017,-63.58163926
+51,453871.62,4942029.53,Tsuga canadensis ?,Eastern Hemlock,118,Good - Ground Truthed,44.6301408,-63.5815426
+52,453870.01,4942031.53,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.6301587,-63.58156307
+53,453869.09,4942025.37,Pinus strobus,White Pine,94,Good - Ground Truthed,44.63010319,-63.58157412
+54,453868.82,4942022.23,Pinus strobus,White Pine,94,Good - Ground Truthed,44.63007491,-63.58157724
+55,453869.62,4942020.56,Pinus strobus,White Pine,94,Good - Ground Truthed,44.63005992,-63.581567
+56,453874.64,4942019.03,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63004647,-63.58150358
+57,453849.67,4942047.7,Viburnum dentatum,Arrowood Viburnum,123,Good - Ground Truthed,44.63030296,-63.58182094
+58,453825.1,4942098.64,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63075994,-63.58213527
+59,453815.46,4942103.04,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63079893,-63.58225719
+60,453817.19,4942103.74,Betula sp.,Birch,23,Good - Ground Truthed,44.63080535,-63.58223544
+61,453816.03,4942125.78,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63100368,-63.58225205
+62,453815.1,4942134.89,Stewartia pseudocamellia,Japanese Stewartia,113,Good - Ground Truthed,44.63108563,-63.58226459
+63,453817.14,4942143.3,Fraxinus ornus,Manna Ash,49,Good - Ground Truthed,44.63116146,-63.58223963
+64,453812.87,4942159.1,Fraxinus ornus,Manna Ash,49,Good - Ground Truthed,44.63130342,-63.58229489
+65,453806.88,4942160.38,Magnolia acuminata*,Cucumber Tree,68,Good - Ground Truthed,44.63131456,-63.58237051
+66,453800.27,4942170.85,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63140839,-63.58245479
+67,453793.48,4942190.78,Magnolia loebrieri,var. Leonard Messel,71,Check position,44.63158736,-63.58254218
+68,453849.33,4942138.36,Picea pungens,Blue Spruce,89,Good - Ground Truthed,44.63111906,-63.58183338
+69,453850.94,4942141.41,Physocarpus opulifolia,Nine Bark,88,Good - Ground Truthed,44.63114662,-63.58181336
+70,453850.67,4942144.73,Malus sp.,Flowering Crab,77,Good - Ground Truthed,44.63117649,-63.58181706
+71,453839.26,4942174.2,Picea pungens,Blue Spruce,89,Good - Ground Truthed,44.63144105,-63.58196355
+72,453782.48,4942223.97,Acer platanoides,Norway Maple Crimson King,6,Good - Ground Truthed,44.63188543,-63.58268384
+73,453777.24,4942223.78,Acer platanoides,Norway Maple Crimson King,6,Good - Ground Truthed,44.63188338,-63.58274989
+74,453777.5,4942228.11,Acer platanoides,Norway Maple Crimson King,6,Good - Ground Truthed,44.63192238,-63.582747
+75,453800.14,4942221.75,Styrax japonica,Japanese Snowbell,114,Good - Ground Truthed,44.63186658,-63.58246101
+76,453806.65,4942221.29,Betula utilis var Jacquemontii,Himalayan Birch,24,Good - Ground Truthed,44.63186286,-63.5823789
+77,453813.85,4942224.1,Acer griseum,Paperbark Maple,3,Good - Ground Truthed,44.63188862,-63.58228838
+78,453818.16,4942218.18,Euonymus europaeus,Spindle Tree,45,Good - Ground Truthed,44.6318356,-63.58223351
+79,453822.76,4942222.23,Populus nigra var. italica,Lombardy Poplar,96,Good - Ground Truthed,44.63187236,-63.58217589
+80,453823.55,4942218.83,Populus nigra var. italica,Lombardy Poplar,96,Good - Ground Truthed,44.6318418,-63.58216562
+81,453827.08,4942217.72,Syringa reticulata var. Ivory Silk,Ivory Silk or Tree Lilac,115,Good - Ground Truthed,44.63183203,-63.58212102
+82,453831.17,4942218.75,Larix laricena,Tamarack,65,Good - Ground Truthed,44.63184157,-63.58206955
+83,453826.82,4942220.56,Ilex opaca (female tree),American Holly,55,Good - Ground Truthed,44.63185758,-63.58212455
+84,453847.03,4942225.55,Magnolia virginiana,?Henry Hicks?,76,Good - Ground Truthed,44.6319038,-63.58187022
+85,453845.96,4942228.22,Celtis occidentalis*,Hackbery,30,Good - Ground Truthed,44.63192777,-63.58188395
+86,453844.88,4942231.85,Magnolia grandiflora,?Victoria?,70,Good - Ground Truthed,44.63196038,-63.58189789
+87,453843.82,4942234.39,Ostrya virginiana*,Ironwood or Hop-Hornbeam,86,Good - Ground Truthed,44.63198317,-63.58191148
+88,453842.05,4942232.35,Ilex opaca (male tree),American Holly,56,Good - Ground Truthed,44.6319647,-63.58193361
+89,453833.01,4942258.35,Pyrus calleryana,Callery Pear,101,Good - Ground Truthed,44.63219817,-63.58204992
+90,453830.87,4942265.28,Pyrus calleryana,Callery Pear,101,Good - Ground Truthed,44.63226042,-63.58207752
+91,453830.86,4942280.9,Ostrya virginiana*,Ironwood or Hop-Hornbeam,86,Good - Ground Truthed,44.63240103,-63.58207905
+92,453829.29,4942285.78,Celtis occidentalis*,Hackbery,30,Good - Ground Truthed,44.63244486,-63.58209928
+93,453826.03,4942293.41,Betula papyrifera,Paperbark Birch,21,Good - Ground Truthed,44.63251333,-63.58214107
+94,453822.95,4942287.55,Pinus strobus,White Pine,94,Good - Ground Truthed,44.63246038,-63.58217937
+95,453819.13,4942286.71,Catalpa speciosa,Northern Catalpa,29,Good - Ground Truthed,44.63245257,-63.58222745
+96,453814.49,4942284.75,Tsuga canadensis,Eastern Hemlock,117,Good - Ground Truthed,44.63243463,-63.58228577
+97,453813.66,4942283.67,Pseudotsuga menzeisii,Douglas Fir,100,Good - Ground Truthed,44.63242486,-63.58229614
+98,453811.32,4942291.07,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63249132,-63.58232631
+99,453810.92,4942295.64,Tsuga canadensis,Eastern Hemlock,117,Good - Ground Truthed,44.63253243,-63.58233176
+100,453813.02,4942296.49,Pseudotsuga menzeisii,Douglas Fir,100,Good - Ground Truthed,44.63254022,-63.58230536
+101,453808.26,4942300.92,Diospyros virginiana,Persimon,44,Good - Ground Truthed,44.63257979,-63.58236577
+102,453810.81,4942301.84,Cornus kausa,?satomi? Pink dogwood,36,Good - Ground Truthed,44.63258824,-63.5823337
+103,453807.49,4942307.64,Betula papyrifera,Paperbark Birch,21,Good - Ground Truthed,44.63264024,-63.58237608
+104,453807.35,4942309.76,Betula sp.,Birch,23,Good - Ground Truthed,44.63265931,-63.58237804
+105,453810.53,4942310.86,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63266942,-63.58233805
+106,453804.63,4942312.13,Stewartia pseudocamellia,Japanese Stewartia,113,Good - Ground Truthed,44.63268047,-63.58241254
+107,453800.82,4942310.79,Cornus kausa,Chinese Flowering Dogwood,37,Good - Ground Truthed,44.63266817,-63.58246045
+108,453790.42,4942311.99,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6326783,-63.58259167
+109,453786.15,4942311.71,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63267551,-63.58264548
+110,453773.36,4942306.92,Sorbus decora,Showy Mountain Ash,111,Good - Ground Truthed,44.63263156,-63.58280629
+111,453762.5,4942303.37,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63259891,-63.58294288
+112,453754.6,4942300.85,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63257571,-63.58304225
+113,453754.86,4942295.63,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63252874,-63.5830385
+114,453762.43,4942279.23,Juniperus sp.,Juniper,61,Good - Ground Truthed,44.63238159,-63.58294159
+115,453765.68,4942274.25,Pinus sp.,Pine,93,Good - Ground Truthed,44.63233697,-63.58290017
+116,453768.61,4942254.26,Pinus sp.,Pine,93,Good - Ground Truthed,44.63215721,-63.58286143
+117,453776.53,4942244.59,Castanea dentata*,American Chestnut,28,Good - Ground Truthed,44.63207067,-63.58276071
+118,453777.28,4942241.93,Cydonia oblongata,Quince,43,Good - Ground Truthed,44.63204677,-63.58275102
+119,453779.75,4942241.88,Maackia amurensis,Amur Maakia,67,Good - Ground Truthed,44.63204648,-63.58271987
+120,453807.43,4942319.03,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63274277,-63.58237786
+121,453817.18,4942322.04,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63277049,-63.58225522
+122,453826.44,4942325.35,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63280088,-63.58213877
+123,453828.61,4942322.38,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63277429,-63.58211115
+124,453834.67,4942327.11,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63281726,-63.58203518
+125,453842.28,4942329.82,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63284214,-63.58193948
+126,453848.99,4942329.17,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63283672,-63.58185483
+127,453846.95,4942325.87,Gleditsia triacanthos,Sunburst Honey-Locust,52,Good - Ground Truthed,44.63280688,-63.58188025
+128,453838.24,4942319.8,Betula papyrifera,Paperbark Birch,21,Good - Ground Truthed,44.63275168,-63.58198951
+129,453835.35,4942319.7,Betula papyrifera,Paperbark Birch,21,Good - Ground Truthed,44.63275059,-63.58202594
+130,453840.89,4942311.1,Quercus robur,English Oak,102,Good - Ground Truthed,44.63267353,-63.58195532
+131,453835.69,4942310.96,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63267194,-63.58202086
+132,453836.72,4942307.4,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63263996,-63.58200756
+133,453837.24,4942302.22,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63259336,-63.58200054
+134,453837.93,4942303.09,Ulmus glabra,English Elm,122,Good - Ground Truthed,44.63260124,-63.58199192
+135,453849.82,4942318.23,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63273829,-63.58184338
+136,453850.31,4942314.5,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63270474,-63.58183687
+137,453877.11,4942286.74,Quercus rubra,Red Oak,103,Check position,44.63245657,-63.58149651
+138,453869.66,4942299.59,Ulmus glabra,Elm,121,Check position,44.63257177,-63.58159158
+139,453865.11,4942314.77,Larix decidua,European Larch,64,Good - Ground Truthed,44.63270813,-63.58165031
+140,453861.07,4942332.21,Tilia cordata,Basswood,116,Check position,44.63286486,-63.58170281
+141,453866.14,4942336.18,Phellodendron amurense,Amur Cork Tree,87,Good - Ground Truthed,44.63290093,-63.58163925
+142,453875.95,4942338.98,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63292676,-63.58151583
+143,453889.37,4942343.68,Juglans cinerea,? Butternut,59,Good - Ground Truthed,44.63296993,-63.58134706
+144,453940.31,4942361.07,Juglans ailantifolia,Japanese Walnut,58,Good - Ground Truthed,44.63312974,-63.58070642
+145,453950.12,4942339.36,Cornus kausa var. chinensis,Chinese Flowering Dogwood,38,Good - Ground Truthed,44.63293494,-63.5805808
+146,453955.59,4942331.26,Acer platanoides ?,Norway Maple,7,Good - Ground Truthed,44.63286237,-63.58051111
+147,453951.77,4942328.4,Quercus robur,English Oak,102,Good - Ground Truthed,44.63283638,-63.58055902
+148,453940.03,4942327.85,Corylus colurna,Turkish Hazel,40,Good - Ground Truthed,44.63283068,-63.58070697
+149,453930.16,4942331.95,Salix sp.,Willow,108,Good - Ground Truthed,44.63286695,-63.58083177
+150,453913.34,4942322.73,Gleditsia triacanthos,Honey Locust,51,Good - Ground Truthed,44.63278288,-63.58104299
+151,453897.37,4942319.42,Cladrastis lutea,Yellow Wood,34,Good - Ground Truthed,44.63275206,-63.58124403
+152,453888.61,4942318.2,Acer griseum,Paperbark Maple,3,Good - Ground Truthed,44.63274051,-63.58135436
+153,453882.03,4942309.5,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63266177,-63.58143653
+154,453890.38,4942311.21,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.6326777,-63.58133141
+155,453898.13,4942309.08,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63265902,-63.58123352
+156,453902.94,4942309.93,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63266698,-63.58117295
+157,453913.93,4942315.01,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63271342,-63.58103486
+158,453917.73,4942316.94,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63273104,-63.58098713
+159,453935.45,4942318.81,Aralia elata,Japanese Angelica Tree,17,Good - Ground Truthed,44.63274901,-63.5807639
+160,453938.12,4942309.25,Acer campestris,Hedge Maple,2,Good - Ground Truthed,44.63266312,-63.58072938
+161,453940.53,4942300.74,Syringa reticulata var. Ivory Silk,Ivory Silk or Tree Lilac,115,Good - Ground Truthed,44.63258667,-63.58069823
+162,453939.77,4942295.66,Tsuga canadensis ?,Eastern Hemlock,118,Good - Ground Truthed,44.63254089,-63.58070736
+163,453944.37,4942282.18,Prunus serrulata var kiku-shidare-sa,Weeping Japanese Cherry,98,Good - Ground Truthed,44.63241983,-63.58064816
+164,453936.34,4942275.71,Rhus typhina,Staghorn Sumac,105,Good - Ground Truthed,44.63236108,-63.58074881
+165,453929.98,4942276.45,Magnolia stellata var Royal Star,Star Magnolia,75,Good - Ground Truthed,44.63236733,-63.58082906
+166,453926.8,4942275.04,Malus sp.,Flowering Crab,77,Good - Ground Truthed,44.63235443,-63.58086902
+167,453928.69,4942270.46,Morus alba,White Mulberry,84,Good - Ground Truthed,44.63231332,-63.58084478
+168,453932.74,4942271.09,Quercus robur,English Oak,102,Good - Ground Truthed,44.63231926,-63.58079378
+169,453926.36,4942262.74,Crataegus laevigatus var Pauls Scarl,Pink May or Hawthorn,41,Good - Ground Truthed,44.63224368,-63.58087346
+170,453935.98,4942256.41,Metasequoia glyptostroboides,Dawn Cypress or Dawn Redwood,83,Good - Ground Truthed,44.63218731,-63.58075162
+171,453939.79,4942263.16,Hibiscus syriacus var. 'Lucy',Rose of Sharon,54,Good - Ground Truthed,44.63224832,-63.58070419
+172,453942.63,4942267.91,Juglans nigra*,Black Walnut,60,Good - Ground Truthed,44.63229126,-63.58066881
+173,453958.45,4942291.12,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63250121,-63.58047146
+174,453964.49,4942290.06,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63249206,-63.58039521
+175,453961.57,4942284.99,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63244623,-63.58043157
+176,453961.36,4942280.89,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63240931,-63.58043385
+177,453957.04,4942266.09,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6322758,-63.58048698
+178,453953.65,4942260.56,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6322258,-63.58052923
+179,453954.5,4942241.47,Gymnocladus diocus*,Kentucky Coffee Tree,53,Good - Ground Truthed,44.63205401,-63.5805168
+180,453944.43,4942246.62,Malus sp.,Weeping Crab Apple,82,Good - Ground Truthed,44.63209972,-63.58064421
+181,453937.65,4942247.28,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63210523,-63.58072974
+182,453930.66,4942240.09,Sorbus intermedia,Swedish Whitebeam,112,Good - Ground Truthed,44.63204006,-63.58081722
+183,453938.77,4942235.33,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63199773,-63.58071455
+184,453941.3,4942226.79,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63192101,-63.58068189
+185,453932.35,4942229.51,Cerciiphyllum japonicum,Katsura Tree,31,Good - Ground Truthed,44.63194493,-63.58079496
+186,453921.8,4942229.69,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63194587,-63.58092798
+187,453921.6,4942220.18,Gleditsia triacanthos,Honey Locust,51,Good - Ground Truthed,44.63186025,-63.58092965
+188,453914.94,4942241.08,Gleditsia triacanthos,Honey Locust,51,Good - Ground Truthed,44.63204796,-63.58101549
+189,453934.16,4942221.84,Malus sp.,Flowering Crab 'Makamik',78,Good - Ground Truthed,44.631876,-63.58077146
+190,453942.53,4942220.92,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63186825,-63.58066586
+191,453943.14,4942218.88,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63184993,-63.58065798
+192,453944.07,4942216.77,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63183099,-63.58064607
+193,453942.77,4942213.51,Celtis occidentalis*,Hackbery,30,Good - Ground Truthed,44.63180156,-63.58066217
+194,453937.81,4942208.23,Prunus Padus,European Pin Cherry or Mayday Tree,97,Good - Ground Truthed,44.63175371,-63.58072422
+195,453935.97,4942215.39,Betula alleghaniensis*,Yellow Birch,19,Good - Ground Truthed,44.63181805,-63.58074806
+196,453927.56,4942206.93,Magnolia sp.,var. Wades Memory,74,Good - Ground Truthed,44.63174135,-63.58085332
+197,453925.09,4942205.19,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63172553,-63.58088431
+198,453928.29,4942202.85,Sambucus canadensis*,Canadian Elder,109,Good - Ground Truthed,44.63170467,-63.58084375
+199,453926.27,4942197.24,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63165404,-63.58086872
+200,453921.18,4942161.15,Ostrya virginiana*,Ironwood or Hop-Hornbeam,86,Check position,44.63132883,-63.58092964
+201,453912.18,4942158.36,Magnolia stellata var Royal Star,Star Magnolia,75,Good - Ground Truthed,44.63130314,-63.58104285
+202,453914.26,4942135.2,Cercis canadensis*,Redbud or Judas Tree,32,Check position,44.63109478,-63.58101455
+203,453913.96,4942131.55,Chamaecyparus sp.,Cypress,33,Check position,44.63106191,-63.581018
+204,453919.1,4942134.31,Chamaecyparus sp.,Cypress,33,Check position,44.63108708,-63.58095345
+205,453922.27,4942134.58,Chamaecyparus sp.,Cypress,33,Check position,44.63108971,-63.58091352
+206,453929.58,4942141.23,Magnolia brooklynensis,var. Yellow Bird,69,Good - Ground Truthed,44.63115005,-63.58082196
+207,453921.05,4942115.92,Malus sp.,Flowering Crab 'Profusion',79,Check position,44.63092166,-63.58092722
+208,453946.07,4942191.84,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6316067,-63.58061862
+209,453940.39,4942192.37,Acer saccharum,Sugar Maple,10,Good - Ground Truthed,44.6316111,-63.58069027
+210,453944.69,4942202.06,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63169861,-63.58063693
+211,453956.08,4942203.83,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63171527,-63.5804935
+212,453950.09,4942213.52,Juglans nigra*,Black Walnut,60,Good - Ground Truthed,44.63180212,-63.58056988
+213,453959.29,4942218.67,Magnolia sieboldii,Siebolds Magnolia,72,Good - Ground Truthed,44.63184907,-63.58045436
+214,453967.08,4942222.58,Carya lacinosa*,Shellbark Hickory,26,Good - Ground Truthed,44.63188477,-63.58035651
+215,453969.18,4942217.73,Quercus robur,English Oak,102,Good - Ground Truthed,44.63184124,-63.5803296
+216,453972.65,4942216.15,Quercus robur,English Oak,102,Good - Ground Truthed,44.63182724,-63.58028571
+217,453979.98,4942221.69,Carya ovata*,Shagbark Hickory,27,Good - Ground Truthed,44.63187758,-63.5801938
+218,453987.52,4942225.58,Magnolia soulangeana,Saucer Magnolia,73,Good - Ground Truthed,44.63191308,-63.58009909
+219,453974.68,4942227.72,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63193152,-63.58026116
+220,453972.74,4942233.73,Ginko biloba,Maidenhair Tree,50,Good - Ground Truthed,44.6319855,-63.58028615
+221,453977.72,4942239.76,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6320401,-63.58022391
+222,453994.71,4942224.87,Acer pensylvanicum*,Striped/Snake-Bark Maple,4,Good - Ground Truthed,44.63190715,-63.58000839
+223,453997.19,4942232.26,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63197383,-63.57997779
+224,454003.13,4942231.93,Asimina trilobata*,Pawpaw,18,Good - Ground Truthed,44.63197124,-63.57990287
+225,454005.83,4942232.89,Cornus alternifolia*,Alternate-leaved Dogwood,35,Good - Ground Truthed,44.63198006,-63.57986892
+226,454008.41,4942233.8,Magnolia brooklynensis,var. Yellow Bird,69,Good - Ground Truthed,44.63198842,-63.57983648
+227,453964.82,4942205.83,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63173384,-63.5803835
+228,453964.96,4942205.97,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63173511,-63.58038174
+229,453966.41,4942207.96,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63175311,-63.58036364
+230,453971.32,4942209.97,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63177152,-63.58030192
+231,453970.55,4942210.04,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6317721,-63.58031164
+232,453973.35,4942210.73,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63177849,-63.5802764
+233,453978.17,4942214.19,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63180995,-63.58021595
+234,453982.56,4942213.23,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.63180159,-63.58016052
+235,454021.57,4942243.64,Malus sp.,Flowering Crab 'Profusion',79,Good - Ground Truthed,44.63207784,-63.57967145
+236,454020.99,4942247.43,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63211192,-63.5796791
+237,454019.64,4942251.96,Malus sp.,Flowering Crab 'Profusion',79,Good - Ground Truthed,44.63215261,-63.57969653
+238,454017.7,4942258.35,Malus sp.,Flowering Crab 'Thunder Child',80,Good - Ground Truthed,44.63221001,-63.57972156
+239,454016.61,4942263.42,Malus sp.,Flowering Crab 'Makamik',78,Good - Ground Truthed,44.63225558,-63.57973575
+240,454009.05,4942264.3,Malus sp.,Flowering Crab 'Profusion',79,Good - Ground Truthed,44.63226302,-63.57983114
+241,454007.55,4942289.36,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63248851,-63.5798523
+242,454000.22,4942289.45,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63248886,-63.57994471
+243,453987.15,4942288.59,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63248028,-63.58010941
+244,453982.91,4942299.09,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63257453,-63.58016381
+245,453993.15,4942298.31,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63256816,-63.58003464
+246,454009.01,4942302.95,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63261095,-63.57983511
+247,454021.09,4942308.63,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63266285,-63.57968333
+248,454035.82,4942307.1,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63265002,-63.57949749
+249,454037.24,4942307.67,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63265524,-63.57947964
+250,454036.87,4942309.48,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63267151,-63.57948447
+251,454043.8,4942313.71,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63271003,-63.57939748
+252,454046.45,4942313.59,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63270912,-63.57936406
+253,454049.02,4942313.5,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63270848,-63.57933165
+254,454051.75,4942300.61,Quercus robur,English Oak,102,Check position,44.63259262,-63.57929608
+255,454095.07,4942314,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63271592,-63.57875115
+256,454122.68,4942309.79,Aesculus hippocastanum,Horse-Chestnut,14,Good - Ground Truthed,44.63267979,-63.57840269
+257,454124.85,4942310.14,Aesculus hippocastanum,Horse-Chestnut,14,Good - Ground Truthed,44.63268308,-63.57837537
+258,454127.16,4942316.26,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63273832,-63.57834679
+259,454127.79,4942305.53,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63264176,-63.57833789
+260,454125.27,4942299.78,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63258984,-63.57836914
+261,454075.03,4942235.38,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6320069,-63.57899675
+262,454079.31,4942236.56,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.6320178,-63.5789429
+263,454084.05,4942238.77,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63203799,-63.57888334
+264,454091.21,4942240.27,Ulmus glabra,Elm,121,Check position,44.63205195,-63.57879321
+265,454095.41,4942241.82,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63206618,-63.5787404
+266,454103.55,4942244.11,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63208731,-63.57863799
+267,454117.87,4942249.22,Ulmus glabra,? American Elm,120,Good - Ground Truthed,44.63213423,-63.57845791
+268,454141.04,4942232.04,Acer saccharum*,Sugar Maple,11,Good - Ground Truthed,44.63198105,-63.57816428
+269,454144.83,4942217.6,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.6318513,-63.57811521
+270,454143.01,4942213.74,Salix sp.,Willow,108,Good - Ground Truthed,44.63181644,-63.57813781
+271,454146.51,4942208.58,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63177021,-63.57809322
+272,454148.13,4942199.26,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63168641,-63.57807197
+273,454148.81,4942196.59,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63166242,-63.57806316
+274,454151.12,4942188.04,Crataegus monogyna,Hawthorn,42,Good - Ground Truthed,44.6315856,-63.57803327
+275,454151.67,4942185.81,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63156556,-63.57802614
+276,454152.45,4942183.23,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63154239,-63.57801607
+277,454152.37,4942179.52,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63150898,-63.57801675
+278,454153.1,4942166.26,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63138966,-63.57800636
+279,454153.68,4942162.15,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6313527,-63.57799868
+280,454154.43,4942158.5,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63131989,-63.5779889
+281,454155.04,4942154.7,Fraxinus ?,Ash,47,Good - Ground Truthed,44.63128572,-63.57798087
+282,454156,4942147.87,Juglans ?,Walnut,57,Good - Ground Truthed,44.6312243,-63.57796816
+283,454161.23,4942134.81,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63110707,-63.57790106
+284,454161.63,4942132.59,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63108711,-63.57789582
+285,454162.67,4942130.07,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63106449,-63.57788248
+286,454156.63,4942111.2,Aesculus glabra,Ohio Buckeye,13,Good - Ground Truthed,44.63089424,-63.57795694
+287,454160.34,4942112.05,Quercus robur,English Oak,102,Good - Ground Truthed,44.63090212,-63.57791025
+288,454165.41,4942113.04,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63091136,-63.57784642
+289,454164.53,4942115.91,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63093714,-63.57785777
+290,454160.12,4942120.46,Sorbus intermedia,Swedish Whitebeam,112,Good - Ground Truthed,44.63097782,-63.57791377
+291,454164.02,4942121.61,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63098842,-63.57786471
+292,454169.65,4942091.24,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63071539,-63.57779102
+293,454170.19,4942088.41,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63068994,-63.57778396
+294,454167,4942081.52,Alnus rugosa,Speckled Alder,15,Good - Ground Truthed,44.63062772,-63.57782356
+295,454162.16,4942082.62,Tsuga canadensis ?,Eastern Hemlock,118,Good - Ground Truthed,44.63063731,-63.57788467
+296,454154.07,4942076.11,Malus sp.,Flowering Crab,77,Good - Ground Truthed,44.63057819,-63.57798608
+297,454139.03,4942247.09,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.6321164,-63.57819096
+298,454132.04,4942255.78,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63219418,-63.57827986
+299,454129.7,4942253.86,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63217675,-63.57830919
+300,454131.5,4942257.07,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63220576,-63.57828678
+301,454132.71,4942263.35,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63226237,-63.57827209
+302,454131.49,4942269.24,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63231532,-63.578288
+303,454131.28,4942272.73,Aesculus hippocastanum,Horse-Chestnut,14,Good - Ground Truthed,44.63234672,-63.57829096
+304,454132.29,4942278.94,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63240269,-63.57827878
+305,454131.59,4942281.09,Ulmus glabra,Elm,121,Good - Ground Truthed,44.632422,-63.5782878
+306,454126.9,4942284.23,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63244996,-63.5783472
+307,454129.62,4942310.85,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63268977,-63.57831529
+308,454123.01,4942331.7,Acer platanoides ?,Norway Maple,7,Good - Ground Truthed,44.63287704,-63.57840049
+309,454126.02,4942336.06,Acer rubrum ?,Red Maple,9,Good - Ground Truthed,44.63291648,-63.57836293
+310,454129.72,4942342.91,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63297838,-63.5783169
+311,454124.44,4942337.14,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63292611,-63.57838295
+312,454130.3,4942349.18,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63303486,-63.57831015
+313,454131.19,4942356.96,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63310496,-63.57829962
+314,454131.05,4942366.02,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63318651,-63.5783022
+315,454131.03,4942370.28,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63322485,-63.57830283
+316,454127.86,4942370.38,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63322555,-63.5783428
+317,454104.86,4942377.76,Robinia pseudoacacia,Black Locust,107,Good - Ground Truthed,44.63329052,-63.57863343
+318,454082.57,4942407.04,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63355267,-63.57891706
+319,454002.9,4942326.97,Ulmus americana,American Elm,119,Good - Ground Truthed,44.63282678,-63.57991429
+320,454118.34,4942393.21,Robinia pseudoacacia,Black Locust,107,Good - Ground Truthed,44.63343046,-63.57846487
+321,454135.03,4942390.49,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63340704,-63.57825421
+322,454138.58,4942391.82,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63341924,-63.57820957
+323,454134.15,4942414.37,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63362195,-63.57826744
+324,454130.01,4942413.09,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63361017,-63.57831952
+325,454128.1,4942415.03,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63362751,-63.57834377
+326,454122.28,4942415.38,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63363029,-63.57841718
+327,454117.96,4942411.52,Robinia pseudoacacia,Black Locust,107,Good - Ground Truthed,44.63359526,-63.57847129
+328,454114.56,4942405.67,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63354238,-63.57851363
+329,454108.18,4942412.41,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63360265,-63.57859467
+330,454102.94,4942413.42,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63361141,-63.57866082
+331,454072.1,4942404.9,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63353274,-63.57904886
+332,454066.98,4942402.56,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63351135,-63.5791132
+333,454065.47,4942394.9,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6334423,-63.57913155
+334,454059.27,4942392.52,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63342047,-63.57920951
+335,454051.52,4942389.35,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63339144,-63.57930693
+336,454047.07,4942388.74,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63338567,-63.57936297
+337,454038.66,4942386.03,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63336073,-63.57946876
+338,454037.82,4942390.52,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.6334011,-63.57947975
+339,454035.62,4942392.96,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63342292,-63.5795077
+340,454014.6,4942380.72,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63331139,-63.57977161
+341,454008.27,4942373.35,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63324464,-63.57985075
+342,454004.76,4942378.68,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.6332924,-63.57989548
+343,453994.9,4942366.57,Tilia cordata,Basswood,116,Check position,44.63318275,-63.5800187
+344,453990.47,4942369.78,Malus sp.,Flowering Crab,77,Check position,44.63321137,-63.58007484
+345,453981.7,4942373.15,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63324114,-63.5801857
+346,453967.51,4942363.04,Juniperus virginiana ?,Juniper,62,Good - Ground Truthed,44.63314922,-63.58036369
+347,454175.28,4942077.16,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.630589,-63.57771879
+348,454175.74,4942063.09,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63046237,-63.57771173
+349,454177.74,4942053.41,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63037535,-63.57768566
+350,454179.36,4942045,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63029975,-63.57766448
+351,454180.57,4942039.29,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63024843,-63.57764872
+352,454181.49,4942034.21,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63020275,-63.57763667
+353,454181.98,4942031.96,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63018253,-63.57763029
+354,454182.66,4942027.65,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63014377,-63.57762133
+355,454182.38,4942024.05,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.63011135,-63.57762454
+356,454180.12,4942023.97,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63011049,-63.57765302
+357,454177.73,4942023.46,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63010574,-63.57768311
+358,454172.97,4942022.72,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.63009878,-63.57774305
+359,454164.21,4942023.77,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63010767,-63.57785357
+360,454160.21,4942025.15,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63011984,-63.57790412
+361,454155.74,4942022.32,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63009408,-63.57796022
+362,454155.67,4942020.76,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63008003,-63.57796096
+363,454148.61,4942021.02,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63008192,-63.57804999
+364,454144.97,4942020.91,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.6300807,-63.57809587
+365,454142.43,4942022,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63009035,-63.57812798
+366,454141.55,4942025.55,Quercus robur,English Oak,102,Good - Ground Truthed,44.63012225,-63.57813939
+367,454141.72,4942020.28,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63007482,-63.57813678
+368,454137.92,4942024.01,Betula alleghaniensis*,Yellow Birch,19,Good - Ground Truthed,44.63010815,-63.57818502
+369,454134.21,4942023.98,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63010765,-63.57823179
+370,454134.35,4942018.4,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63005742,-63.57822952
+371,454132.33,4942024.41,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.6301114,-63.57825552
+372,454131.54,4942024.92,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63011594,-63.57826553
+373,454130.62,4942022.98,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63009842,-63.57827695
+374,454131.22,4942017.39,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63004813,-63.57826889
+375,454128.99,4942021.32,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63008337,-63.57829735
+376,454130.06,4942016.77,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63004248,-63.57828346
+377,454126.11,4942022.73,Betula alleghaniensis*,Yellow Birch,19,Good - Ground Truthed,44.63009588,-63.57833379
+378,454115.83,4942019.87,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63006947,-63.57846312
+379,454114.01,4942019.5,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63006603,-63.57848603
+380,454108.79,4942028.31,Fraxinus excelsior,Ash,48,Good - Ground Truthed,44.630145,-63.57855263
+381,454109.36,4942020.34,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63007329,-63.57854473
+382,454109.78,4942014.6,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63002165,-63.57853892
+383,454102.54,4942015.52,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63002947,-63.57863027
+384,454103,4942018.43,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63005569,-63.57862473
+385,454104.2,4942023.41,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.6301006,-63.57861005
+386,454103.26,4942025.86,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63012259,-63.57862212
+387,454099.13,4942026.5,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63012809,-63.57867424
+388,454096.02,4942027.06,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63013293,-63.5787135
+389,454098.31,4942027.75,Betula alleghaniensis*,Yellow Birch,19,Good - Ground Truthed,44.63013929,-63.57868469
+390,454097.12,4942026.12,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63012454,-63.57869955
+391,454098.21,4942015.21,Betula alleghaniensis*,Yellow Birch,19,Good - Ground Truthed,44.6300264,-63.57868483
+392,454098.39,4942012.87,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63000535,-63.57868235
+393,454095.43,4942014.98,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63002415,-63.57871986
+394,454093.37,4942018.92,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63005949,-63.57874618
+395,454090.73,4942018.43,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63005491,-63.57877941
+396,454089.19,4942014.83,Ulmus glabra,Elm,121,Good - Ground Truthed,44.6300224,-63.57879851
+397,454084.11,4942021.03,Sorbus aucuparia,Mountain Ash,110,Good - Ground Truthed,44.63007789,-63.5788631
+398,454084.29,4942022.61,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63009213,-63.57886097
+399,454080.6,4942023.01,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63009549,-63.57890753
+400,454076.86,4942019.63,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63006482,-63.57895437
+401,454077.48,4942022.28,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63008872,-63.57894679
+402,454073.37,4942018.07,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63005056,-63.57899823
+403,454077.62,4942010.98,Ulmus glabra,Elm,121,Good - Ground Truthed,44.62998701,-63.57894402
+404,454074.96,4942011.48,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.62999134,-63.5789776
+405,454075.41,4942010.16,Ulmus glabra,Elm,121,Good - Ground Truthed,44.62997948,-63.5789718
+406,454069.18,4942007.86,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.62995838,-63.57905014
+407,454061.65,4942007.83,Tilia cordata,Basswood,116,Good - Ground Truthed,44.62995763,-63.57914506
+408,454054.8,4942009.39,Ulmus glabra,Elm,121,Good - Ground Truthed,44.62997123,-63.57923155
+409,454052.84,4942012.42,Acer platanoides,Norway Maple,5,Good - Ground Truthed,44.62999838,-63.57925653
+410,454054.07,4942018.72,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63005518,-63.57924159
+411,454048.16,4942018.57,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63005345,-63.57931608
+412,454046.8,4942012.42,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.629998,-63.57933267
+413,454045.1,4942013.02,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.63000329,-63.57935416
+414,454047.28,4942005.64,Quercus robur,English Oak,102,Good - Ground Truthed,44.629937,-63.57932602
+415,454036.9,4942007.52,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.62995326,-63.57945704
+416,454036.23,4942012.13,Amelanchier laevis*,Serviceberry or Juneberry,16,Good - Ground Truthed,44.62999471,-63.5794659
+417,454035.54,4942017.24,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63004067,-63.57947505
+418,454035.16,4942023.85,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63010015,-63.57948044
+419,454028.74,4942020.74,Tsuga canadensis ?,Eastern Hemlock,118,Good - Ground Truthed,44.63007174,-63.57956109
+420,454018.69,4942005.98,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.62993823,-63.57968646
+421,454011.06,4942007.4,Acer rubrum,Red Maple,8,Check if still extant,44.62995052,-63.57978278
+422,454010.25,4942012.08,Betula papyrifera,White Birch,22,Check if still extant,44.6299926,-63.57979341
+423,454007.88,4942014.56,Betula papyrifera,White Birch,22,Check if still extant,44.63001477,-63.57982351
+424,454002.29,4942018.22,Betula papyrifera,White Birch,22,Check if still extant,44.63004736,-63.5798943
+425,453999.4,4942022.42,Quercus rubra,Red Oak,103,Check if still extant,44.63008499,-63.57993111
+426,454000.31,4942030.16,Acer rubrum,Red Maple,8,Check if still extant,44.63015472,-63.57992034
+427,453995.55,4942027.18,Quercus rubra,Red Oak,103,Check if still extant,44.63012759,-63.57998007
+428,453996.49,4942019.96,Quercus rubra,Red Oak,103,Check if still extant,44.63006265,-63.57996758
+429,453997.64,4942014.18,Acer rubrum,Red Maple,8,Check if still extant,44.6300107,-63.57995256
+430,453998.06,4942005.21,Quercus rubra,Red Oak,103,Check if still extant,44.62992998,-63.57994646
+431,453991.62,4942003.84,Quercus rubra,Red Oak,103,Check if still extant,44.62991723,-63.58002753
+432,453979.68,4942001.2,Quercus rubra,Red Oak,103,Check if still extant,44.6298927,-63.58017781
+433,453983.42,4942007.16,Aesculus carnea var. Briottii,Red Horse-chestnut,12,Check if still extant,44.62994659,-63.5801312
+434,453973.06,4942018.39,Liriodendron tulipifera,Tulip Tree,66,Check if still extant,44.63004702,-63.5802628
+435,453986.28,4942030.89,Laburnum watereri,Golden Chain Tree,63,Check if still extant,44.63016039,-63.58009727
+436,453965.71,4942032.12,Quercus rubra,Red Oak,103,Check if still extant,44.63017015,-63.58035669
+437,453961.25,4942041.88,Carpinus caroliniana,Hornbeam,25,Check if still extant,44.63025772,-63.58041379
+438,453954.84,4942039.17,Pyrus calleryana,Callery Pear,101,Check if still extant,44.63023292,-63.58049436
+439,453944.25,4942034.96,Sorbus aucuparia,Mountain Ash,110,Check if still extant,44.63019434,-63.58062748
+440,453959.61,4942024.39,Quercus rubra,Red Oak,103,Check if still extant,44.63010017,-63.5804329
+441,453969.57,4942008.68,Quercus rubra,Red Oak,103,Check if still extant,44.62995939,-63.58030593
+442,453962.62,4942006.45,Quercus rubra,Red Oak,103,Check if still extant,44.62993887,-63.58039334
+443,453960.5,4941997.54,Quercus rubra,Red Oak,103,Check if still extant,44.62985852,-63.58041927
+444,453953.82,4941993.96,Quercus rubra,Red Oak,103,Check if still extant,44.62982587,-63.58050316
+445,453954.07,4941984.5,Pinus strobus,White Pine,94,Check if still extant,44.62974073,-63.58049916
+446,453950.7,4941986.51,Picea rubra?,Red Spruce,90,Check if still extant,44.6297586,-63.58054182
+447,453944.86,4941989.49,Picea rubra?,Red Spruce,90,Check if still extant,44.62978506,-63.58061571
+448,453940.64,4942000.33,Quercus rubra,Red Oak,103,Check if still extant,44.62988237,-63.58066988
+449,453938.72,4942002.64,Acer platanoides,Norway Maple,5,Check if still extant,44.62990304,-63.58069429
+450,453940.31,4942036.94,Acer platanoides,Norway Maple,5,Check if still extant,44.63021191,-63.58067733
+451,453933.42,4942037.27,Pinus strobus,White Pine,94,Check if still extant,44.63021444,-63.58076422
+452,453932.83,4942035.45,Tilia cordata,Basswood,116,Check if still extant,44.63019802,-63.58077149
+453,453933.76,4942029.33,Acer rubrum,Red Maple,8,Check if still extant,44.63014299,-63.58075922
+454,453928.83,4942028.47,Pinus strobus,White Pine,94,Check if still extant,44.63013493,-63.58082129
+455,453924.63,4942031.11,Quercus rubra,Red Oak,103,Check if still extant,44.63015842,-63.58087447
+456,453922.29,4942043.43,Pinus strobus,White Pine,94,Check if still extant,44.63026918,-63.58090508
+457,453920.1,4942040.22,Pinus strobus,White Pine,94,Check if still extant,44.63024014,-63.5809324
+458,453917.13,4942035.64,Pinus strobus,White Pine,94,Check if still extant,44.63019872,-63.58096943
+459,453910.66,4942029.51,Acer palmatum,Japanese Maple,1,Check if still extant,44.63014312,-63.58105044
+460,453915.48,4942027.75,Amelanchier laevis*,Serviceberry or Juneberry,16,Check if still extant,44.63012759,-63.58098952
+461,453922.29,4942029.56,Pinus strobus,White Pine,94,Check if still extant,44.63014432,-63.58090383
+462,453916.52,4942027.69,Tsuga canadensis ?,Eastern Hemlock,118,Check if still extant,44.63012712,-63.5809764
+463,453917.58,4942022.49,Tilia cordata,Basswood,116,Check if still extant,44.63008037,-63.58096257
+464,453922.66,4941996.12,Quercus rubra,Red Oak,103,Check if still extant,44.62984332,-63.58089617
+465,453926.26,4941992.42,Quercus rubra,Red Oak,103,Check if still extant,44.62981024,-63.58085045
+466,453921.87,4941988.68,Quercus rubra,Red Oak,103,Check if still extant,44.62977629,-63.58090546
+467,453930.5,4941989.54,Pinus strobus,White Pine,94,Check if still extant,44.62978459,-63.58079674
+468,453927.71,4941993.42,Pinus strobus,White Pine,94,Check if still extant,44.62981933,-63.58083226
+469,453928.28,4941996.13,Quercus rubra,Red Oak,103,Check if still extant,44.62984377,-63.58082532
+470,453925.95,4941989.26,Acer rubrum,Red Maple,8,Check if still extant,44.62978177,-63.58085408
+471,453924.19,4941988.24,Quercus rubra,Red Oak,103,Check if still extant,44.62977248,-63.58087617
+472,453917.45,4941992.23,Tilia cordata,Basswood,116,Check if still extant,44.62980796,-63.5809615
+473,453910.22,4941993.74,Tilia cordata,Basswood,116,Good - Ground Truthed,44.62982109,-63.58105278
+474,453910.85,4941989.1,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.62977936,-63.58104442
+475,453904.44,4941990.55,Pinus sylvestris,Scotts Pine,95,Good - Ground Truthed,44.62979201,-63.58112535
+476,453903.26,4941993.2,Pinus sylvestris,Scotts Pine,95,Good - Ground Truthed,44.62981579,-63.58114047
+477,453901.07,4941989.83,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.62978531,-63.58116777
+478,453893.64,4941988.75,Tilia cordata,Basswood,116,Good - Ground Truthed,44.62977511,-63.58126134
+479,453836.6,4942034.22,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63018077,-63.58198449
+480,453844.02,4942041.82,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63024966,-63.58189164
+481,453836.78,4942045.25,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63028007,-63.58198322
+482,453834.81,4942048.65,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63031056,-63.58200836
+483,453828.82,4942051.8,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63033853,-63.58208415
+484,453833.95,4942055.33,Picea pungens,Blue Spruce,89,Good - Ground Truthed,44.63037063,-63.5820198
+485,453826.3,4942059.5,Picea pungens,Blue Spruce,89,Good - Ground Truthed,44.63040768,-63.58211662
+486,453824.27,4942063.37,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63044239,-63.58214255
+487,453826.35,4942071.39,Pinus sylvestris,Scotts Pine,95,Good - Ground Truthed,44.63051472,-63.58211705
+488,453830.08,4942071.38,Quercus rubra,Red Oak,103,Good - Ground Truthed,44.63051487,-63.58207003
+489,453838.25,4942076.3,Acer rubrum,Red Maple,8,Good - Ground Truthed,44.63055968,-63.58196748
+490,453831.06,4942080.28,Tilia cordata,Basswood,116,Good - Ground Truthed,44.63059505,-63.58205848
+491,453837.37,4942078.93,Tilia cordata,Basswood,116,Good - Ground Truthed,44.6305833,-63.58197881
+492,453837.83,4942065.91,Acer palmatum,Japanese Maple,1,Good - Ground Truthed,44.63046612,-63.58197184
+493,453839.56,4942064.92,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63045732,-63.58194994
+494,453842.07,4942057.85,Chamaecyparus sp.,Cypress,33,Good - Ground Truthed,44.63039384,-63.58191766
+495,453849.04,4942044.37,Pinus strobus,White Pine,94,Good - Ground Truthed,44.63027294,-63.58182858
+496,454076.29,4942023.9,Betula papyrifera,White Birch,22,Good - Ground Truthed,44.63010323,-63.57896194
+497,454071.19,4942017.13,Ulmus glabra,Elm,121,Good - Ground Truthed,44.63004196,-63.57902563
+498,0,0,,,0,,,
+499,453914.21,4942351.75,,,0,Need species ID,44.63304417,-63.58103463
+500,453905.71,4942349.06,,,0,Need species ID,44.63301941,-63.58114155
+501,453896.86,4942345.94,,,0,Need species ID,44.63299076,-63.58125284
+502,454024.22,4942320.58,,,0,Need species ID,44.63277063,-63.57964494
+503,454021.71,4942328.88,,,0,Need species ID,44.63284518,-63.57967733
+504,454019.55,4942336.11,,,0,Need species ID,44.63291013,-63.5797052
+505,454016.8,4942344.84,,,0,Need species ID,44.63298854,-63.57974066
+506,454012.68,4942358.19,,,0,Need species ID,44.63310845,-63.57979379
+507,454010.51,4942365.66,,,0,Need species ID,44.63317556,-63.57982182
+508,454011.81,4942383.98,,,0,Need species ID,44.63334056,-63.57980707
+509,454060.92,4942400.25,,,0,Need species ID,44.63349017,-63.5791894
+510,454103.68,4942407.21,,,0,Need species ID,44.63355555,-63.57865094
+511,454098.77,4942401.37,,,0,Need species ID,44.63350267,-63.57871232
+512,454099.17,4942396.78,,,0,Need species ID,44.63346137,-63.57870686
+513,454104.06,4942389.28,,,0,Need species ID,44.63339417,-63.57864454
+514,454107.01,4942384.96,,,0,Need species ID,44.63335547,-63.57860697
+515,454114.4,4942378,,,0,Need species ID,44.63329329,-63.57851318
+516,454122.56,4942377.21,,,0,Need species ID,44.6332867,-63.57841023
+517,454134.13,4942381.38,,,0,Need species ID,44.63332497,-63.57826474
+518,454128.64,4942381.85,,,0,Need species ID,44.63332885,-63.578334
+519,454123.99,4942384.82,,,0,Need species ID,44.63335529,-63.57839288
+520,454139.63,4942407.21,,,0,Need species ID,44.63355785,-63.57819771
+521,454138.46,4942400.39,,,0,Need species ID,44.63349638,-63.57821185
+522,454135.34,4942403.02,,,0,Need species ID,44.63351986,-63.57825142
+523,454121.6,4942402.49,,,0,Need species ID,44.63351421,-63.5784246
+524,454083.58,4942382.31,,,0,Need species ID,44.63333012,-63.57890211
+525,454085.68,4942375.77,,,0,Need species ID,44.63327138,-63.57887505
+526,454086.48,4942364.42,,,0,Need species ID,44.63316926,-63.57886395
+527,454086.1,4942357.47,,,0,Need species ID,44.63310667,-63.57886812
+528,454082.58,4942343.82,,,0,Need species ID,44.63298357,-63.57891128
+529,454083.21,4942339.63,,,0,Need species ID,44.63294589,-63.57890296
+530,454113.7,4942313.03,,,0,Need species ID,44.63270838,-63.57851619
+531,454118.24,4942312.66,,,0,Need species ID,44.63270534,-63.57845892
+532,454068.63,4942315.52,,,0,Need species ID,44.63272792,-63.57908461
+533,454063.9,4942313.96,,,0,Need species ID,44.63271357,-63.5791441
+534,454060.05,4942312.74,,,0,Need species ID,44.63270234,-63.57919253
+535,453916.71,4942268.92,,,0,Need species ID,44.63229869,-63.58099567
+536,453918.16,4942271.12,,,0,Need species ID,44.63231859,-63.58097759
+537,453915.95,4942274.46,,,0,Need species ID,44.63234852,-63.58100575
+538,453914.66,4942273.72,,,0,Need species ID,44.63234177,-63.58102195
+539,453912.04,4942270.11,,,0,Need species ID,44.63230911,-63.58105465
+540,453910.25,4942270.81,,,0,Need species ID,44.63231529,-63.58107728
+541,453909.98,4942270.53,,,0,Need species ID,44.63231275,-63.58108066
+542,453909.09,4942269.53,,,0,Need species ID,44.6323037,-63.58109179
+543,453918.25,4942257.96,,,0,Need species ID,44.63220013,-63.58097528
+544,453923.98,4942250.18,,,0,Need species ID,44.63213046,-63.58090234
+545,453919.01,4942244.07,,,0,Need species ID,44.63207514,-63.58096445
+546,453934.51,4942183.95,,,0,Need species ID,44.63153493,-63.58076364
+547,453934.26,4942174.09,,,0,Need species ID,44.63144615,-63.58076591
+548,453922.87,4942170.5,,,0,Need species ID,44.63141311,-63.58090918
+549,453919.1,4942163.6,,,0,Need species ID,44.63135075,-63.58095608
+550,453914.6,4942158.21,,,0,Need species ID,44.63130194,-63.58101233
+551,453914.3,4942162.72,,,0,Need species ID,44.63134252,-63.58101652
+552,453911.39,4942147.51,,,0,Need species ID,44.63120541,-63.58105184
+553,453907.3,4942146.47,,,0,Need species ID,44.63119579,-63.5811033
+554,453900.79,4942151.83,,,0,Need species ID,44.63124362,-63.58118586
+555,453891.35,4942153.93,,,0,Need species ID,44.63126192,-63.58130505
+556,453886.47,4942153.7,,,0,Need species ID,44.63125954,-63.58136655
+557,453885.86,4942148.26,,,0,Need species ID,44.63121053,-63.58137375
+558,453933.27,4942138.76,,,0,Need species ID,44.63112805,-63.58077522
+559,453928.49,4942144.76,,,0,Need species ID,44.63118175,-63.58083602
+560,453932.67,4942120.67,,,0,Need species ID,44.63096516,-63.58078116
+561,453944.03,4942172.34,,,0,Need species ID,44.63143103,-63.58064259
+562,453945.18,4942162.86,,,0,Need species ID,44.63134576,-63.58062724
+563,453946.22,4942155.62,,,0,Need species ID,44.63128065,-63.58061348
+564,453949.78,4942147.88,,,0,Need species ID,44.63121121,-63.5805679
+565,453957.4,4942135.47,,,0,Need species ID,44.63109998,-63.58047073
+566,453960.96,4942127.59,,,0,Need species ID,44.63102927,-63.58042514
+567,453963.07,4942120.89,,,0,Need species ID,44.63096909,-63.58039794
+568,453854.94,4942123.02,,,0,Need species ID,44.63098133,-63.58176128
+569,453839.97,4942118.32,,,0,Need species ID,44.63093806,-63.58194958
+570,453841.47,4942145.11,,,0,Need species ID,44.63117932,-63.58193308
+571,453835.21,4942165.13,,,0,Need species ID,44.63135914,-63.5820138
+572,453829.07,4942182.41,,,0,Need species ID,44.6315143,-63.58209275
+573,453821.08,4942182.11,,,0,Need species ID,44.63151109,-63.58219346
+574,453840.83,4942187.25,,,0,Need species ID,44.63155863,-63.58194494
+575,453795.87,4942176.81,,,0,Need species ID,44.63146175,-63.58251079
+576,453800.27,4942170.85,,,0,Need species ID,44.63140839,-63.58245479
+577,453806.88,4942160.38,,,0,Need species ID,44.63131456,-63.58237051
+578,453811.48,4942151.5,,,0,Need species ID,44.63123492,-63.58231172
+579,453813.75,4942143.23,,,0,Need species ID,44.63116062,-63.58228236
+580,453815.14,4942128.74,,,0,Need species ID,44.63103027,-63.58226354
+581,453816,4942111.96,,,0,Need species ID,44.63087927,-63.58225118
+582,454106.22,4942018,,,0,Need species ID,44.63005203,-63.5785841
+583,454101.31,4942019.34,,,0,Need species ID,44.63006378,-63.57864612
+584,454073.45,4942010.33,,,0,Need species ID,44.62998089,-63.57899653
+585,454071.73,4942012.55,,,0,Need species ID,44.63000076,-63.57901841
+586,453952.15,4942241.2,,,0,Need species ID,44.63205143,-63.5805464
+587,453953.45,4942235.56,,,0,Need species ID,44.63200074,-63.5805295
+588,453814.94,4942104.48,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63081186,-63.58226387
+589,453815.76,4942101.83,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63078806,-63.5822533
+590,453816.15,4942100.73,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63077818,-63.58224828
+591,453816.5,4942099.71,Pinus nigra,Austrian Pine,92,Good - Ground Truthed,44.63076902,-63.58224378
